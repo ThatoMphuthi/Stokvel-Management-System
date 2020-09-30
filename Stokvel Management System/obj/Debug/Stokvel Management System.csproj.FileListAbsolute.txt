@@ -1,0 +1,54 @@
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\bin\Debug\Stokvel Management System.exe.config
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\bin\Debug\Stokvel Management System.exe
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\bin\Debug\Stokvel Management System.pdb
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\obj\Debug\Stokvel_Management_System.Properties.Resources.resources
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\obj\Debug\Stokvel Management System.csproj.GenerateResource.Cache
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\obj\Debug\Stokvel Management System.exe
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\obj\Debug\Stokvel Management System.pdb
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\obj\Debug\Stokvel_Management_System.frmUsers.resources
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\obj\Debug\Stokvel_Management_System.frmMember.resources
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\obj\Debug\Stokvel_Management_System.frmAdmin.resources
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\obj\Debug\Stokvel_Management_System.frmSignUp.resources
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\obj\Debug\Stokvel_Management_System.frmRequest.resources
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\obj\Debug\Stokvel_Management_System.Form6.resources
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\obj\Debug\Stokvel_Management_System.frmAdd.resources
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\obj\Debug\Stokvel_Management_System.frmUpdate.resources
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\obj\Debug\Stokvel_Management_System.frmDelete.resources
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\obj\Debug\Stokvel_Management_System.LoginSplashcs.resources
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\bin\Debug\FlashControlV71.dll
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\bin\Debug\stdole.dll
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\obj\Debug\Stokvel_Management_System.MemberDash.resources
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\obj\Debug\Stokvel_Management_System.DepositsReports.resources
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\obj\Debug\Stokvel_Management_System.LoansReport.resources
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\obj\Debug\Stokvel_Management_System.MembersReport.resources
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\obj\Debug\Stokvel_Management_System.PaymentsReports.resources
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\bin\Debug\Members.rpt
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\bin\Debug\Members.cs
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\bin\Debug\Stokvel Database.accdb
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\obj\Debug\Stokvel_Management_System.Announcements.resources
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\obj\Debug\Stokvel_Management_System.Enquries.resources
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\obj\Debug\Stokvel_Management_System.reportDeposit.resources
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\obj\Debug\Stokvel_Management_System.ReportLoans.resources
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\obj\Debug\Stokvel_Management_System.ReportPayments.resources
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\obj\Debug\Stokvel_Management_System.AboutBox1.resources
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\bin\Debug\Stokvel Management System.exe.manifest
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\bin\Debug\Stokvel Management System.application
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\obj\Debug\Stokvel Management System.exe.manifest
+C:\Users\Litu\Desktop\Stokvel Management System\Stokvel Management System\obj\Debug\Stokvel Management System.application
